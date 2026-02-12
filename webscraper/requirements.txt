@@ -1,0 +1,5 @@
+requests
+newspaper3k
+ddgs
+lxml_html_clean
+urllib3<2
